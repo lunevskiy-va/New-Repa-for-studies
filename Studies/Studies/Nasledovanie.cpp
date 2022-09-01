@@ -40,6 +40,8 @@ public:
 int main() {
 	Aspirant Vitaly(15, 4);
 	Vitaly.Show();
-
+	Vitaly.SetAge(31);
+	Vitaly.SetGroup(3);
+	Vitaly.Show();
 	return 0;
 }
