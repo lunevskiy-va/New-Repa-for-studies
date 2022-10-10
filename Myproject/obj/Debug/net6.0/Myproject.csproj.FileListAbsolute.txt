@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\bin\Debug\net6.0\Myproject.exe
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\bin\Debug\net6.0\Myproject.deps.json
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\bin\Debug\net6.0\Myproject.runtimeconfig.json
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\bin\Debug\net6.0\Myproject.dll
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\bin\Debug\net6.0\Myproject.pdb
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\obj\Debug\net6.0\Myproject.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\obj\Debug\net6.0\Myproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\obj\Debug\net6.0\Myproject.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\obj\Debug\net6.0\Myproject.AssemblyInfo.cs
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\obj\Debug\net6.0\Myproject.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\obj\Debug\net6.0\Myproject.dll
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\obj\Debug\net6.0\refint\Myproject.dll
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\obj\Debug\net6.0\Myproject.pdb
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\obj\Debug\net6.0\Myproject.genruntimeconfig.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Myproject\obj\Debug\net6.0\ref\Myproject.dll
