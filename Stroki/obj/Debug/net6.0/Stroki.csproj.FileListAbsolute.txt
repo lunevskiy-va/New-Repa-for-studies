@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\bin\Debug\net6.0\Stroki.exe
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\bin\Debug\net6.0\Stroki.deps.json
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\bin\Debug\net6.0\Stroki.runtimeconfig.json
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\bin\Debug\net6.0\Stroki.dll
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\bin\Debug\net6.0\Stroki.pdb
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\obj\Debug\net6.0\Stroki.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\obj\Debug\net6.0\Stroki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\obj\Debug\net6.0\Stroki.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\obj\Debug\net6.0\Stroki.AssemblyInfo.cs
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\obj\Debug\net6.0\Stroki.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\obj\Debug\net6.0\Stroki.dll
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\obj\Debug\net6.0\refint\Stroki.dll
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\obj\Debug\net6.0\Stroki.pdb
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\obj\Debug\net6.0\Stroki.genruntimeconfig.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki\obj\Debug\net6.0\ref\Stroki.dll

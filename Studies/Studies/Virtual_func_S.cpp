@@ -69,7 +69,7 @@ public:
 
 
 
-int main() {
+int main 103() {
 	Figura* Pl[3]{ new Rectangle(3, 5), new Triangle(8, 5), new Circle(5) };
 
 	for (int i = 0; i < 3; i++) {
