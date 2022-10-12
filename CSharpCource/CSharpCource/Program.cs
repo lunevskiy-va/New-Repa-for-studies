@@ -35,19 +35,18 @@ for (int i = 0; i < size2; i++)
 //      Поиск Максимального значения в двух массивах
 
 int maxValue = A.Max();
-double max = 0;
+double Bmax = 0;
 for (int i = 0; i < size2; i++)
 {
     
     for (int j = 0; j < size3; j++)
     {
-        if(B[i, j] > max)
+        if(B[i, j] > Bmax)
         {
-            max = B[i, j];
+            Bmax = B[i, j];
         }
     }
 }
-int Bmax = Convert.ToInt32(max);
 if(Bmax < maxValue) 
 {
     Console.WriteLine("Максимальный элемент в массивах:  "+maxValue);
