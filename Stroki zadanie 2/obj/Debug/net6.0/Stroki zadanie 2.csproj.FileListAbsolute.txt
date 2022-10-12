@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\bin\Debug\net6.0\Stroki zadanie 2.exe
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\bin\Debug\net6.0\Stroki zadanie 2.deps.json
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\bin\Debug\net6.0\Stroki zadanie 2.runtimeconfig.json
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\bin\Debug\net6.0\Stroki zadanie 2.dll
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\bin\Debug\net6.0\Stroki zadanie 2.pdb
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\obj\Debug\net6.0\Stroki zadanie 2.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\obj\Debug\net6.0\Stroki zadanie 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\obj\Debug\net6.0\Stroki zadanie 2.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\obj\Debug\net6.0\Stroki zadanie 2.AssemblyInfo.cs
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\obj\Debug\net6.0\Stroki zadanie 2.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\obj\Debug\net6.0\Stroki zadanie 2.dll
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\obj\Debug\net6.0\refint\Stroki zadanie 2.dll
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\obj\Debug\net6.0\Stroki zadanie 2.pdb
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\obj\Debug\net6.0\Stroki zadanie 2.genruntimeconfig.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\desktop-tutorial\Myproject\Stroki zadanie 2\obj\Debug\net6.0\ref\Stroki zadanie 2.dll
