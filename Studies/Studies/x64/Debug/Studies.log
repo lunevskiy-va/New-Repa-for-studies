@@ -1,4 +1,4 @@
-﻿  Nasledovanie.cpp
-  Virtual_Function.cpp
+﻿  bin.cpp
+  proverka.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: proverka.cpp: No such file or directory,
   Создание кода...
-  Studies.vcxproj -> C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Studies\x64\Debug\Studies.exe

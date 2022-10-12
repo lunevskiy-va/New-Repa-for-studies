@@ -139,7 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bin.cpp" />
     <ClCompile Include="Nasledovanie.cpp" />
+    <ClCompile Include="proverka.cpp" />
     <ClCompile Include="Virtual_Function.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

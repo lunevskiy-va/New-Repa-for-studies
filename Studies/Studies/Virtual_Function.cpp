@@ -44,7 +44,7 @@ public:
 };
 
 
-int main() {
+int main123() {
 	Employer* Company[4]{ new Manager("Sergey", 1500),new Lawyer("Danil", 2600),new Economist("Denis", 3200),new Manager("Kirill",5000) };
 	for (int i = 0; i < 4; i++) {
 		Company[i]->Print();

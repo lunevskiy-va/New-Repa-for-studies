@@ -37,7 +37,7 @@ public:
 	}
 };
 
-int main() {
+int main101() {
 	Aspirant Vitaly(15, 4);
 	Vitaly.Show();
 	Vitaly.SetAge(31);
