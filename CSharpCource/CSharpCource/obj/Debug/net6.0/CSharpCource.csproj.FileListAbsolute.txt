@@ -1,0 +1,15 @@
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\bin\Debug\net6.0\CSharpCource.exe
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\bin\Debug\net6.0\CSharpCource.deps.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\bin\Debug\net6.0\CSharpCource.runtimeconfig.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\bin\Debug\net6.0\CSharpCource.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\bin\Debug\net6.0\CSharpCource.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\obj\Debug\net6.0\CSharpCource.csproj.AssemblyReference.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\obj\Debug\net6.0\CSharpCource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\obj\Debug\net6.0\CSharpCource.AssemblyInfoInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\obj\Debug\net6.0\CSharpCource.AssemblyInfo.cs
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\obj\Debug\net6.0\CSharpCource.csproj.CoreCompileInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\obj\Debug\net6.0\CSharpCource.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\obj\Debug\net6.0\refint\CSharpCource.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\obj\Debug\net6.0\CSharpCource.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\obj\Debug\net6.0\CSharpCource.genruntimeconfig.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\CSharpCource\CSharpCource\obj\Debug\net6.0\ref\CSharpCource.dll
