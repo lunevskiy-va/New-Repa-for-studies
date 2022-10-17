@@ -1,0 +1,15 @@
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\bin\Debug\net6.0\DZ stroki.exe
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\bin\Debug\net6.0\DZ stroki.deps.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\bin\Debug\net6.0\DZ stroki.runtimeconfig.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\bin\Debug\net6.0\DZ stroki.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\bin\Debug\net6.0\DZ stroki.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\obj\Debug\net6.0\DZ stroki.csproj.AssemblyReference.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\obj\Debug\net6.0\DZ stroki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\obj\Debug\net6.0\DZ stroki.AssemblyInfoInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\obj\Debug\net6.0\DZ stroki.AssemblyInfo.cs
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\obj\Debug\net6.0\DZ stroki.csproj.CoreCompileInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\obj\Debug\net6.0\DZ stroki.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\obj\Debug\net6.0\refint\DZ stroki.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\obj\Debug\net6.0\DZ stroki.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\obj\Debug\net6.0\DZ stroki.genruntimeconfig.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ stroki\obj\Debug\net6.0\ref\DZ stroki.dll

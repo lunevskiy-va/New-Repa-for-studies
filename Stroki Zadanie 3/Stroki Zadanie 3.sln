@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stroki Zadanie 3", "Stroki Zadanie 3.csproj", "{305131CF-AA0F-44AB-909B-3813100077DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ stroki", "..\DZ stroki\DZ stroki.csproj", "{316E6B6E-F401-4769-A9A5-A8E126D76BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DZ klassi", "..\DZ klassi\DZ klassi.csproj", "{34E079D8-8971-48E7-BF05-B7FA35550E06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{305131CF-AA0F-44AB-909B-3813100077DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{305131CF-AA0F-44AB-909B-3813100077DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{305131CF-AA0F-44AB-909B-3813100077DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316E6B6E-F401-4769-A9A5-A8E126D76BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316E6B6E-F401-4769-A9A5-A8E126D76BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316E6B6E-F401-4769-A9A5-A8E126D76BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316E6B6E-F401-4769-A9A5-A8E126D76BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E079D8-8971-48E7-BF05-B7FA35550E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E079D8-8971-48E7-BF05-B7FA35550E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E079D8-8971-48E7-BF05-B7FA35550E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E079D8-8971-48E7-BF05-B7FA35550E06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

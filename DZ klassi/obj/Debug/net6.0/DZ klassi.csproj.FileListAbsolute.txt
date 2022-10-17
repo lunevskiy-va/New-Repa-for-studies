@@ -1,0 +1,15 @@
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\obj\Debug\net6.0\DZ klassi.csproj.AssemblyReference.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\obj\Debug\net6.0\DZ klassi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\obj\Debug\net6.0\DZ klassi.AssemblyInfoInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\obj\Debug\net6.0\DZ klassi.AssemblyInfo.cs
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\obj\Debug\net6.0\DZ klassi.csproj.CoreCompileInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\bin\Debug\net6.0\DZ klassi.exe
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\bin\Debug\net6.0\DZ klassi.deps.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\bin\Debug\net6.0\DZ klassi.runtimeconfig.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\bin\Debug\net6.0\DZ klassi.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\bin\Debug\net6.0\DZ klassi.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\obj\Debug\net6.0\DZ klassi.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\obj\Debug\net6.0\refint\DZ klassi.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\obj\Debug\net6.0\DZ klassi.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\obj\Debug\net6.0\DZ klassi.genruntimeconfig.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ klassi\obj\Debug\net6.0\ref\DZ klassi.dll
