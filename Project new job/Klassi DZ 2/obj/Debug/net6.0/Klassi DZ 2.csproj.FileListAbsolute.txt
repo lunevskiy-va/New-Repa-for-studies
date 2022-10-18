@@ -1,0 +1,5 @@
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Klassi DZ 2\Klassi DZ 2\obj\Debug\net6.0\Klassi DZ 2.csproj.AssemblyReference.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Klassi DZ 2\Klassi DZ 2\obj\Debug\net6.0\Klassi DZ 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Klassi DZ 2\Klassi DZ 2\obj\Debug\net6.0\Klassi DZ 2.AssemblyInfoInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Klassi DZ 2\Klassi DZ 2\obj\Debug\net6.0\Klassi DZ 2.AssemblyInfo.cs
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Klassi DZ 2\Klassi DZ 2\obj\Debug\net6.0\Klassi DZ 2.csproj.CoreCompileInputs.cache
