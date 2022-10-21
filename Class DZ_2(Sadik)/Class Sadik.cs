@@ -5,7 +5,9 @@ one.Info();
 Sadik two = new Sadik("Спортик", "Новокузнецк, ул. Запорожская, 67");
 two.SetSad("Танцевальный", 27);
 two.Info();
-
+Sadik three = new Sadik("Три сестры","Новокузнецк, пр. Пионерский, 23")
+three.SetSad("Театральный",29)
+three.Info();
 
 class Sadik
 {
