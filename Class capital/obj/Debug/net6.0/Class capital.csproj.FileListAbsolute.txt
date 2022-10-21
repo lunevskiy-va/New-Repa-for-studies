@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\bin\Debug\net6.0\Class capital.exe
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\bin\Debug\net6.0\Class capital.deps.json
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\bin\Debug\net6.0\Class capital.runtimeconfig.json
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\bin\Debug\net6.0\Class capital.dll
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\bin\Debug\net6.0\Class capital.pdb
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\obj\Debug\net6.0\Class capital.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\obj\Debug\net6.0\Class capital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\obj\Debug\net6.0\Class capital.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\obj\Debug\net6.0\Class capital.AssemblyInfo.cs
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\obj\Debug\net6.0\Class capital.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\obj\Debug\net6.0\Class capital.dll
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\obj\Debug\net6.0\refint\Class capital.dll
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\obj\Debug\net6.0\Class capital.pdb
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\obj\Debug\net6.0\Class capital.genruntimeconfig.cache
+C:\Users\profi\Desktop\ВитВит\GitHub\New-Repa-for-studies\DZ klassi\REF anda OUT\Class capital\obj\Debug\net6.0\ref\Class capital.dll
