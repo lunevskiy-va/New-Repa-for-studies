@@ -1,0 +1,15 @@
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\bin\Debug\net6.0\Class Sotrudnik (Set and GEt).exe
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\bin\Debug\net6.0\Class Sotrudnik (Set and GEt).deps.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\bin\Debug\net6.0\Class Sotrudnik (Set and GEt).runtimeconfig.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\bin\Debug\net6.0\Class Sotrudnik (Set and GEt).dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\bin\Debug\net6.0\Class Sotrudnik (Set and GEt).pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\obj\Debug\net6.0\Class Sotrudnik (Set and GEt).csproj.AssemblyReference.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\obj\Debug\net6.0\Class Sotrudnik (Set and GEt).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\obj\Debug\net6.0\Class Sotrudnik (Set and GEt).AssemblyInfoInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\obj\Debug\net6.0\Class Sotrudnik (Set and GEt).AssemblyInfo.cs
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\obj\Debug\net6.0\Class Sotrudnik (Set and GEt).csproj.CoreCompileInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\obj\Debug\net6.0\Class Sotrudnik (Set and GEt).dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\obj\Debug\net6.0\refint\Class Sotrudnik (Set and GEt).dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\obj\Debug\net6.0\Class Sotrudnik (Set and GEt).pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\obj\Debug\net6.0\Class Sotrudnik (Set and GEt).genruntimeconfig.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Sotrudnik (Set and GEt)\Class Sotrudnik (Set and GEt)\obj\Debug\net6.0\ref\Class Sotrudnik (Set and GEt).dll
