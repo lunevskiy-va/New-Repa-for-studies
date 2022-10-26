@@ -1,0 +1,15 @@
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\obj\Debug\net6.0\DZ prostranstvo imen.csproj.AssemblyReference.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\obj\Debug\net6.0\DZ prostranstvo imen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\obj\Debug\net6.0\DZ prostranstvo imen.AssemblyInfoInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\obj\Debug\net6.0\DZ prostranstvo imen.AssemblyInfo.cs
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\obj\Debug\net6.0\DZ prostranstvo imen.csproj.CoreCompileInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\bin\Debug\net6.0\DZ prostranstvo imen.exe
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\bin\Debug\net6.0\DZ prostranstvo imen.deps.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\bin\Debug\net6.0\DZ prostranstvo imen.runtimeconfig.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\bin\Debug\net6.0\DZ prostranstvo imen.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\bin\Debug\net6.0\DZ prostranstvo imen.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\obj\Debug\net6.0\DZ prostranstvo imen.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\obj\Debug\net6.0\refint\DZ prostranstvo imen.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\obj\Debug\net6.0\DZ prostranstvo imen.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\obj\Debug\net6.0\DZ prostranstvo imen.genruntimeconfig.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\DZ prostranstvo imen\DZ prostranstvo imen\obj\Debug\net6.0\ref\DZ prostranstvo imen.dll
