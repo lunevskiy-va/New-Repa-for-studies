@@ -1,0 +1,15 @@
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\bin\Debug\net6.0\Nasledovanie.exe
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\bin\Debug\net6.0\Nasledovanie.deps.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\bin\Debug\net6.0\Nasledovanie.runtimeconfig.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\bin\Debug\net6.0\Nasledovanie.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\bin\Debug\net6.0\Nasledovanie.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\obj\Debug\net6.0\Nasledovanie.csproj.AssemblyReference.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\obj\Debug\net6.0\Nasledovanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\obj\Debug\net6.0\Nasledovanie.AssemblyInfoInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\obj\Debug\net6.0\Nasledovanie.AssemblyInfo.cs
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\obj\Debug\net6.0\Nasledovanie.csproj.CoreCompileInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\obj\Debug\net6.0\Nasledovanie.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\obj\Debug\net6.0\refint\Nasledovanie.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\obj\Debug\net6.0\Nasledovanie.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\obj\Debug\net6.0\Nasledovanie.genruntimeconfig.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Nasledovanie\Nasledovanie\obj\Debug\net6.0\ref\Nasledovanie.dll
