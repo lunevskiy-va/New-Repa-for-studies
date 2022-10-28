@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\S\Peregruzki operatorov\bin\Debug\net6.0\Peregruzki operatorov.exe
+C:\Users\profi\Desktop\S\Peregruzki operatorov\bin\Debug\net6.0\Peregruzki operatorov.deps.json
+C:\Users\profi\Desktop\S\Peregruzki operatorov\bin\Debug\net6.0\Peregruzki operatorov.runtimeconfig.json
+C:\Users\profi\Desktop\S\Peregruzki operatorov\bin\Debug\net6.0\Peregruzki operatorov.dll
+C:\Users\profi\Desktop\S\Peregruzki operatorov\bin\Debug\net6.0\Peregruzki operatorov.pdb
+C:\Users\profi\Desktop\S\Peregruzki operatorov\obj\Debug\net6.0\Peregruzki operatorov.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\S\Peregruzki operatorov\obj\Debug\net6.0\Peregruzki operatorov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\S\Peregruzki operatorov\obj\Debug\net6.0\Peregruzki operatorov.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\S\Peregruzki operatorov\obj\Debug\net6.0\Peregruzki operatorov.AssemblyInfo.cs
+C:\Users\profi\Desktop\S\Peregruzki operatorov\obj\Debug\net6.0\Peregruzki operatorov.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\S\Peregruzki operatorov\obj\Debug\net6.0\Peregruzki operatorov.dll
+C:\Users\profi\Desktop\S\Peregruzki operatorov\obj\Debug\net6.0\refint\Peregruzki operatorov.dll
+C:\Users\profi\Desktop\S\Peregruzki operatorov\obj\Debug\net6.0\Peregruzki operatorov.pdb
+C:\Users\profi\Desktop\S\Peregruzki operatorov\obj\Debug\net6.0\Peregruzki operatorov.genruntimeconfig.cache
+C:\Users\profi\Desktop\S\Peregruzki operatorov\obj\Debug\net6.0\ref\Peregruzki operatorov.dll
