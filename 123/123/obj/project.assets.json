@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lunevskiy_va\\Documents\\GitHub\\New-Repa-for-studies\\Polimorfizm\\Polimorfizm.csproj",
-      "projectName": "Polimorfizm",
-      "projectPath": "C:\\Users\\lunevskiy_va\\Documents\\GitHub\\New-Repa-for-studies\\Polimorfizm\\Polimorfizm.csproj",
+      "projectUniqueName": "C:\\Users\\lunevskiy_va\\Documents\\GitHub\\New-Repa-for-studies\\123\\123\\123.csproj",
+      "projectName": "123",
+      "projectPath": "C:\\Users\\lunevskiy_va\\Documents\\GitHub\\New-Repa-for-studies\\123\\123\\123.csproj",
       "packagesPath": "C:\\Users\\lunevskiy_va\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lunevskiy_va\\Documents\\GitHub\\New-Repa-for-studies\\Polimorfizm\\obj\\",
+      "outputPath": "C:\\Users\\lunevskiy_va\\Documents\\GitHub\\New-Repa-for-studies\\123\\123\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lunevskiy_va\\AppData\\Roaming\\NuGet\\NuGet.Config",
