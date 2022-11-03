@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\S\DZ stroka\bin\Debug\net6.0\DZ stroka.exe
+C:\Users\profi\Desktop\S\DZ stroka\bin\Debug\net6.0\DZ stroka.deps.json
+C:\Users\profi\Desktop\S\DZ stroka\bin\Debug\net6.0\DZ stroka.runtimeconfig.json
+C:\Users\profi\Desktop\S\DZ stroka\bin\Debug\net6.0\DZ stroka.dll
+C:\Users\profi\Desktop\S\DZ stroka\bin\Debug\net6.0\DZ stroka.pdb
+C:\Users\profi\Desktop\S\DZ stroka\obj\Debug\net6.0\DZ stroka.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\S\DZ stroka\obj\Debug\net6.0\DZ stroka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\S\DZ stroka\obj\Debug\net6.0\DZ stroka.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\S\DZ stroka\obj\Debug\net6.0\DZ stroka.AssemblyInfo.cs
+C:\Users\profi\Desktop\S\DZ stroka\obj\Debug\net6.0\DZ stroka.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\S\DZ stroka\obj\Debug\net6.0\DZ stroka.dll
+C:\Users\profi\Desktop\S\DZ stroka\obj\Debug\net6.0\refint\DZ stroka.dll
+C:\Users\profi\Desktop\S\DZ stroka\obj\Debug\net6.0\DZ stroka.pdb
+C:\Users\profi\Desktop\S\DZ stroka\obj\Debug\net6.0\DZ stroka.genruntimeconfig.cache
+C:\Users\profi\Desktop\S\DZ stroka\obj\Debug\net6.0\ref\DZ stroka.dll
