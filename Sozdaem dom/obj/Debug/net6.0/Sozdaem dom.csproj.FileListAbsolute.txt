@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\S\Sozdaem dom\bin\Debug\net6.0\Sozdaem dom.exe
+C:\Users\profi\Desktop\S\Sozdaem dom\bin\Debug\net6.0\Sozdaem dom.deps.json
+C:\Users\profi\Desktop\S\Sozdaem dom\bin\Debug\net6.0\Sozdaem dom.runtimeconfig.json
+C:\Users\profi\Desktop\S\Sozdaem dom\bin\Debug\net6.0\Sozdaem dom.dll
+C:\Users\profi\Desktop\S\Sozdaem dom\bin\Debug\net6.0\Sozdaem dom.pdb
+C:\Users\profi\Desktop\S\Sozdaem dom\obj\Debug\net6.0\Sozdaem dom.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\S\Sozdaem dom\obj\Debug\net6.0\Sozdaem dom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\S\Sozdaem dom\obj\Debug\net6.0\Sozdaem dom.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\S\Sozdaem dom\obj\Debug\net6.0\Sozdaem dom.AssemblyInfo.cs
+C:\Users\profi\Desktop\S\Sozdaem dom\obj\Debug\net6.0\Sozdaem dom.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\S\Sozdaem dom\obj\Debug\net6.0\Sozdaem dom.dll
+C:\Users\profi\Desktop\S\Sozdaem dom\obj\Debug\net6.0\refint\Sozdaem dom.dll
+C:\Users\profi\Desktop\S\Sozdaem dom\obj\Debug\net6.0\Sozdaem dom.pdb
+C:\Users\profi\Desktop\S\Sozdaem dom\obj\Debug\net6.0\Sozdaem dom.genruntimeconfig.cache
+C:\Users\profi\Desktop\S\Sozdaem dom\obj\Debug\net6.0\ref\Sozdaem dom.dll
