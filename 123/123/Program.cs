@@ -2,6 +2,7 @@
 One.Add();
 One.Read_Books();
 
+
 class Books
 {
     public string name;
@@ -43,7 +44,7 @@ class list
         string Name = Console.ReadLine();
         Spisok.Add(new Books(Name));
     }
-    public void removeBoobks()
+    public void removeBooks()
     {
         Console.WriteLine("Введите индекс книги которую необходимо удалить: ");
         int Id_Books=int.Parse(Console.ReadLine());
@@ -72,6 +73,14 @@ class list
             Console.WriteLine("Книга прочитана!");
         }
 
+    }
+
+    public void ShowSpisok()
+    {
+        foreach(Books item in Spisok)
+        {
+            Console.WriteLine(item);
+        }
     }
 
  
