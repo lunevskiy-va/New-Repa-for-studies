@@ -1,21 +1,16 @@
-﻿
+﻿list One = new list();
+One.Add();
+One.Read_Books();
 
-
-Spisok Spisok = new Spisok();
-for(int i=0; i < 2; i++) {
-    Spisok.add();
- }
-Spisok.ShowSpisok();
 class Books
 {
     public string name;
-    public bool read;
-   public Books()
+    public bool read=false;
+    public Books() { }
+   public Books(string _name)
     {
-        Console.Write("\nДобавим книгу:\n Введите название: "); name = Console.ReadLine();
-        Console.Write("\nПрочитана ли книга:\n  "); read = bool.Parse(Console.ReadLine());
+        name = _name;
     }
-  
     public bool _read
     {
         get { return read; }
@@ -32,26 +27,52 @@ class Books
             Console.WriteLine("мы ее прочли");
         }
         else { Console.WriteLine("мы ее не прочли"); }
-       
     }
-
 }
 
-class Spisok
+class list
 {
-    List<Books> Listbooks;
-    public Spisok()
+    public List<Books> Spisok;
+    public list()
     {
-        Listbooks = new List<Books>();
+        Spisok = new List<Books>();
     }
-    public void add()
+    public void Add()
     {
-        Listbooks.Add(new Books());
+        Console.WriteLine("Введите название книги:");
+        string Name = Console.ReadLine();
+        Spisok.Add(new Books(Name));
     }
-   
-    public void ShowSpisok()
+    public void removeBoobks()
     {
-        foreach (Books name in Listbooks)
-            Console.WriteLine("\n{0}",name);
+        Console.WriteLine("Введите индекс книги которую необходимо удалить: ");
+        int Id_Books=int.Parse(Console.ReadLine());
+        Spisok.RemoveAt(Id_Books);
     }
+    public void Read_Books()
+    {
+        Console.WriteLine("Введите индекс книги которую необходимо проверить читали вы или нет: ");
+        int Id_Books = int.Parse(Console.ReadLine());
+       
+        if(Spisok[Id_Books].read == false) 
+        { Console.WriteLine("Вы не читали эту книгу"); }
+        else
+        {
+            Console.WriteLine("Вы читали эту книгу");
+        }
+        Console.WriteLine("Хотите прочесть? 0- Нет , 1- Да");
+        int variant=int.Parse(Console.ReadLine());
+        if(variant == 0)
+        {
+            Spisok[Id_Books].read == false;
+        }
+        else
+        {
+            Spisok[Id_Books].read == true;
+            Console.WriteLine("Книга прочитана!");
+        }
+
+    }
+
+ 
 }
