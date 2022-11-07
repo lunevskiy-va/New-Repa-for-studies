@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\S\Iskluchenia\bin\Debug\net6.0\Iskluchenia.exe
+C:\Users\profi\Desktop\S\Iskluchenia\bin\Debug\net6.0\Iskluchenia.deps.json
+C:\Users\profi\Desktop\S\Iskluchenia\bin\Debug\net6.0\Iskluchenia.runtimeconfig.json
+C:\Users\profi\Desktop\S\Iskluchenia\bin\Debug\net6.0\Iskluchenia.dll
+C:\Users\profi\Desktop\S\Iskluchenia\bin\Debug\net6.0\Iskluchenia.pdb
+C:\Users\profi\Desktop\S\Iskluchenia\obj\Debug\net6.0\Iskluchenia.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\S\Iskluchenia\obj\Debug\net6.0\Iskluchenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\S\Iskluchenia\obj\Debug\net6.0\Iskluchenia.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\S\Iskluchenia\obj\Debug\net6.0\Iskluchenia.AssemblyInfo.cs
+C:\Users\profi\Desktop\S\Iskluchenia\obj\Debug\net6.0\Iskluchenia.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\S\Iskluchenia\obj\Debug\net6.0\Iskluchenia.dll
+C:\Users\profi\Desktop\S\Iskluchenia\obj\Debug\net6.0\refint\Iskluchenia.dll
+C:\Users\profi\Desktop\S\Iskluchenia\obj\Debug\net6.0\Iskluchenia.pdb
+C:\Users\profi\Desktop\S\Iskluchenia\obj\Debug\net6.0\Iskluchenia.genruntimeconfig.cache
+C:\Users\profi\Desktop\S\Iskluchenia\obj\Debug\net6.0\ref\Iskluchenia.dll

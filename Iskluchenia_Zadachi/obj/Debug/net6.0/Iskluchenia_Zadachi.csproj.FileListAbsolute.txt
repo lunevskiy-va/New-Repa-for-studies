@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\bin\Debug\net6.0\Iskluchenia_Zadachi.exe
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\bin\Debug\net6.0\Iskluchenia_Zadachi.deps.json
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\bin\Debug\net6.0\Iskluchenia_Zadachi.runtimeconfig.json
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\bin\Debug\net6.0\Iskluchenia_Zadachi.dll
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\bin\Debug\net6.0\Iskluchenia_Zadachi.pdb
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\obj\Debug\net6.0\Iskluchenia_Zadachi.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\obj\Debug\net6.0\Iskluchenia_Zadachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\obj\Debug\net6.0\Iskluchenia_Zadachi.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\obj\Debug\net6.0\Iskluchenia_Zadachi.AssemblyInfo.cs
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\obj\Debug\net6.0\Iskluchenia_Zadachi.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\obj\Debug\net6.0\Iskluchenia_Zadachi.dll
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\obj\Debug\net6.0\refint\Iskluchenia_Zadachi.dll
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\obj\Debug\net6.0\Iskluchenia_Zadachi.pdb
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\obj\Debug\net6.0\Iskluchenia_Zadachi.genruntimeconfig.cache
+C:\Users\profi\Desktop\S\Iskluchenia_Zadachi\obj\Debug\net6.0\ref\Iskluchenia_Zadachi.dll
