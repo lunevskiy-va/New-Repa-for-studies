@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\bin\Debug\net6.0\InterFaces_Zakreplenie.exe
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\bin\Debug\net6.0\InterFaces_Zakreplenie.deps.json
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\bin\Debug\net6.0\InterFaces_Zakreplenie.runtimeconfig.json
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\bin\Debug\net6.0\InterFaces_Zakreplenie.dll
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\bin\Debug\net6.0\InterFaces_Zakreplenie.pdb
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\obj\Debug\net6.0\InterFaces_Zakreplenie.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\obj\Debug\net6.0\InterFaces_Zakreplenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\obj\Debug\net6.0\InterFaces_Zakreplenie.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\obj\Debug\net6.0\InterFaces_Zakreplenie.AssemblyInfo.cs
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\obj\Debug\net6.0\InterFaces_Zakreplenie.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\obj\Debug\net6.0\InterFaces_Zakreplenie.dll
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\obj\Debug\net6.0\refint\InterFaces_Zakreplenie.dll
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\obj\Debug\net6.0\InterFaces_Zakreplenie.pdb
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\obj\Debug\net6.0\InterFaces_Zakreplenie.genruntimeconfig.cache
+C:\Users\profi\Desktop\S\InterFaces_Zakreplenie\obj\Debug\net6.0\ref\InterFaces_Zakreplenie.dll
