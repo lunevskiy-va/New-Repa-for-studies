@@ -1,0 +1,15 @@
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\bin\Debug\net6.0\Class Garaj InterFaces.exe
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\bin\Debug\net6.0\Class Garaj InterFaces.deps.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\bin\Debug\net6.0\Class Garaj InterFaces.runtimeconfig.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\bin\Debug\net6.0\Class Garaj InterFaces.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\bin\Debug\net6.0\Class Garaj InterFaces.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\obj\Debug\net6.0\Class Garaj InterFaces.csproj.AssemblyReference.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\obj\Debug\net6.0\Class Garaj InterFaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\obj\Debug\net6.0\Class Garaj InterFaces.AssemblyInfoInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\obj\Debug\net6.0\Class Garaj InterFaces.AssemblyInfo.cs
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\obj\Debug\net6.0\Class Garaj InterFaces.csproj.CoreCompileInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\obj\Debug\net6.0\Class Garaj InterFaces.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\obj\Debug\net6.0\refint\Class Garaj InterFaces.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\obj\Debug\net6.0\Class Garaj InterFaces.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\obj\Debug\net6.0\Class Garaj InterFaces.genruntimeconfig.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\Class Garaj InterFaces\Class Garaj InterFaces\obj\Debug\net6.0\ref\Class Garaj InterFaces.dll
