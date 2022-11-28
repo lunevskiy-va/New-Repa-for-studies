@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\S\Expression His mother\bin\Debug\net6.0\Expression His mother.exe
+C:\Users\profi\Desktop\S\Expression His mother\bin\Debug\net6.0\Expression His mother.deps.json
+C:\Users\profi\Desktop\S\Expression His mother\bin\Debug\net6.0\Expression His mother.runtimeconfig.json
+C:\Users\profi\Desktop\S\Expression His mother\bin\Debug\net6.0\Expression His mother.dll
+C:\Users\profi\Desktop\S\Expression His mother\bin\Debug\net6.0\Expression His mother.pdb
+C:\Users\profi\Desktop\S\Expression His mother\obj\Debug\net6.0\Expression His mother.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\S\Expression His mother\obj\Debug\net6.0\Expression His mother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\S\Expression His mother\obj\Debug\net6.0\Expression His mother.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\S\Expression His mother\obj\Debug\net6.0\Expression His mother.AssemblyInfo.cs
+C:\Users\profi\Desktop\S\Expression His mother\obj\Debug\net6.0\Expression His mother.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\S\Expression His mother\obj\Debug\net6.0\Expression His mother.dll
+C:\Users\profi\Desktop\S\Expression His mother\obj\Debug\net6.0\refint\Expression His mother.dll
+C:\Users\profi\Desktop\S\Expression His mother\obj\Debug\net6.0\Expression His mother.pdb
+C:\Users\profi\Desktop\S\Expression His mother\obj\Debug\net6.0\Expression His mother.genruntimeconfig.cache
+C:\Users\profi\Desktop\S\Expression His mother\obj\Debug\net6.0\ref\Expression His mother.dll
