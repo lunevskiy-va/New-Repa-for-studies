@@ -1,0 +1,15 @@
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\bin\Debug\net6.0\proba2.exe
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\bin\Debug\net6.0\proba2.deps.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\bin\Debug\net6.0\proba2.runtimeconfig.json
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\bin\Debug\net6.0\proba2.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\bin\Debug\net6.0\proba2.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\obj\Debug\net6.0\proba2.csproj.AssemblyReference.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\obj\Debug\net6.0\proba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\obj\Debug\net6.0\proba2.AssemblyInfoInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\obj\Debug\net6.0\proba2.AssemblyInfo.cs
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\obj\Debug\net6.0\proba2.csproj.CoreCompileInputs.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\obj\Debug\net6.0\proba2.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\obj\Debug\net6.0\refint\proba2.dll
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\obj\Debug\net6.0\proba2.pdb
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\obj\Debug\net6.0\proba2.genruntimeconfig.cache
+C:\Users\lunevskiy_va\Documents\GitHub\New-Repa-for-studies\proba2\proba2\obj\Debug\net6.0\ref\proba2.dll
