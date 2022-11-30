@@ -7,9 +7,6 @@ List<Smartphone> Phone = new List<Smartphone>()
     new Smartphone("Siemens","2002","Серо-красный",7500),
     new Smartphone("Samsung","2002","Серо-синий",7900),
     new Smartphone("Ericson","1997","черный",6000)
-
-
-
 };
 
 
@@ -17,7 +14,7 @@ foreach(Smartphone phone in Phone)
 {
     Console.WriteLine(phone);
 }
-void FindAll(Smartphone phone)
+void FindAll(List<Smartphone> Phone)
 {
     string yy = null;
     Console.WriteLine("Введите год поиска телефона: ");
@@ -27,12 +24,10 @@ void FindAll(Smartphone phone)
     {
         if (Phone[i].year == yy)
         {
+            Console.WriteLine();
             Console.WriteLine(Phone[i]);
         }
-        else
-        {
-            Console.WriteLine("Введенный вами год отсутствует в списке наших телефонов!");
-        }
+
     }
 }
 

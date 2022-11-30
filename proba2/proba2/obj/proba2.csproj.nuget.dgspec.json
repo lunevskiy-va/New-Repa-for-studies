@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lunevskiy_va\\Documents\\GitHub\\New-Repa-for-studies\\proba2\\proba2\\proba2.csproj": {}
+    "C:\\Users\\profi\\Desktop\\Новая папка\\New-Repa-for-studies\\proba2\\proba2\\proba2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lunevskiy_va\\Documents\\GitHub\\New-Repa-for-studies\\proba2\\proba2\\proba2.csproj": {
+    "C:\\Users\\profi\\Desktop\\Новая папка\\New-Repa-for-studies\\proba2\\proba2\\proba2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lunevskiy_va\\Documents\\GitHub\\New-Repa-for-studies\\proba2\\proba2\\proba2.csproj",
+        "projectUniqueName": "C:\\Users\\profi\\Desktop\\Новая папка\\New-Repa-for-studies\\proba2\\proba2\\proba2.csproj",
         "projectName": "proba2",
-        "projectPath": "C:\\Users\\lunevskiy_va\\Documents\\GitHub\\New-Repa-for-studies\\proba2\\proba2\\proba2.csproj",
-        "packagesPath": "C:\\Users\\lunevskiy_va\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lunevskiy_va\\Documents\\GitHub\\New-Repa-for-studies\\proba2\\proba2\\obj\\",
+        "projectPath": "C:\\Users\\profi\\Desktop\\Новая папка\\New-Repa-for-studies\\proba2\\proba2\\proba2.csproj",
+        "packagesPath": "C:\\Users\\profi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\profi\\Desktop\\Новая папка\\New-Repa-for-studies\\proba2\\proba2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lunevskiy_va\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\profi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
