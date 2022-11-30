@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\S\isk\bin\Debug\net6.0\isk.exe
+C:\Users\profi\Desktop\S\isk\bin\Debug\net6.0\isk.deps.json
+C:\Users\profi\Desktop\S\isk\bin\Debug\net6.0\isk.runtimeconfig.json
+C:\Users\profi\Desktop\S\isk\bin\Debug\net6.0\isk.dll
+C:\Users\profi\Desktop\S\isk\bin\Debug\net6.0\isk.pdb
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\isk.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\isk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\isk.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\isk.AssemblyInfo.cs
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\isk.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\isk.dll
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\refint\isk.dll
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\isk.pdb
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\isk.genruntimeconfig.cache
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\ref\isk.dll

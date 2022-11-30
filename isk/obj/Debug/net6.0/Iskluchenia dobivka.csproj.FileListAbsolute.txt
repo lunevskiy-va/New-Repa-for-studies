@@ -1,0 +1,15 @@
+C:\Users\profi\Desktop\S\isk\bin\Debug\net6.0\Iskluchenia dobivka.exe
+C:\Users\profi\Desktop\S\isk\bin\Debug\net6.0\Iskluchenia dobivka.deps.json
+C:\Users\profi\Desktop\S\isk\bin\Debug\net6.0\Iskluchenia dobivka.runtimeconfig.json
+C:\Users\profi\Desktop\S\isk\bin\Debug\net6.0\Iskluchenia dobivka.dll
+C:\Users\profi\Desktop\S\isk\bin\Debug\net6.0\Iskluchenia dobivka.pdb
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\Iskluchenia dobivka.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\Iskluchenia dobivka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\Iskluchenia dobivka.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\Iskluchenia dobivka.AssemblyInfo.cs
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\Iskluchenia dobivka.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\Iskluchenia dobivka.dll
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\refint\Iskluchenia dobivka.dll
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\Iskluchenia dobivka.pdb
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\Iskluchenia dobivka.genruntimeconfig.cache
+C:\Users\profi\Desktop\S\isk\obj\Debug\net6.0\ref\Iskluchenia dobivka.dll
