@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Invoice_payment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <payment>2250</payment>
+  <amount>200</amount>
+  <sum>2450</sum>
+  <payment_day>150</payment_day>
+  <day>15</day>
+  <fine>50</fine>
+  <day_delay>4</day_delay>
+</Invoice_payment>
