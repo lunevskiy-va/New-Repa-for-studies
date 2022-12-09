@@ -1,0 +1,17 @@
+C:\Users\profi\Desktop\S\WinForms_Founation\bin\Debug\net6.0-windows\WinForms_Founation.exe
+C:\Users\profi\Desktop\S\WinForms_Founation\bin\Debug\net6.0-windows\WinForms_Founation.deps.json
+C:\Users\profi\Desktop\S\WinForms_Founation\bin\Debug\net6.0-windows\WinForms_Founation.runtimeconfig.json
+C:\Users\profi\Desktop\S\WinForms_Founation\bin\Debug\net6.0-windows\WinForms_Founation.dll
+C:\Users\profi\Desktop\S\WinForms_Founation\bin\Debug\net6.0-windows\WinForms_Founation.pdb
+C:\Users\profi\Desktop\S\WinForms_Founation\obj\Debug\net6.0-windows\WinForms_Founation.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\S\WinForms_Founation\obj\Debug\net6.0-windows\WinForms_Founation.Form1.resources
+C:\Users\profi\Desktop\S\WinForms_Founation\obj\Debug\net6.0-windows\WinForms_Founation.csproj.GenerateResource.cache
+C:\Users\profi\Desktop\S\WinForms_Founation\obj\Debug\net6.0-windows\WinForms_Founation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\S\WinForms_Founation\obj\Debug\net6.0-windows\WinForms_Founation.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\S\WinForms_Founation\obj\Debug\net6.0-windows\WinForms_Founation.AssemblyInfo.cs
+C:\Users\profi\Desktop\S\WinForms_Founation\obj\Debug\net6.0-windows\WinForms_Founation.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\S\WinForms_Founation\obj\Debug\net6.0-windows\WinForms_Founation.dll
+C:\Users\profi\Desktop\S\WinForms_Founation\obj\Debug\net6.0-windows\refint\WinForms_Founation.dll
+C:\Users\profi\Desktop\S\WinForms_Founation\obj\Debug\net6.0-windows\WinForms_Founation.pdb
+C:\Users\profi\Desktop\S\WinForms_Founation\obj\Debug\net6.0-windows\WinForms_Founation.genruntimeconfig.cache
+C:\Users\profi\Desktop\S\WinForms_Founation\obj\Debug\net6.0-windows\ref\WinForms_Founation.dll

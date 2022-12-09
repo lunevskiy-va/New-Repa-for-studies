@@ -1,0 +1,17 @@
+C:\Users\profi\Desktop\S\WinForms Calculation\bin\Debug\net6.0-windows\WinForms Calculation.exe
+C:\Users\profi\Desktop\S\WinForms Calculation\bin\Debug\net6.0-windows\WinForms Calculation.deps.json
+C:\Users\profi\Desktop\S\WinForms Calculation\bin\Debug\net6.0-windows\WinForms Calculation.runtimeconfig.json
+C:\Users\profi\Desktop\S\WinForms Calculation\bin\Debug\net6.0-windows\WinForms Calculation.dll
+C:\Users\profi\Desktop\S\WinForms Calculation\bin\Debug\net6.0-windows\WinForms Calculation.pdb
+C:\Users\profi\Desktop\S\WinForms Calculation\obj\Debug\net6.0-windows\WinForms Calculation.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\S\WinForms Calculation\obj\Debug\net6.0-windows\WinForms_Calculation.Form1.resources
+C:\Users\profi\Desktop\S\WinForms Calculation\obj\Debug\net6.0-windows\WinForms Calculation.csproj.GenerateResource.cache
+C:\Users\profi\Desktop\S\WinForms Calculation\obj\Debug\net6.0-windows\WinForms Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\S\WinForms Calculation\obj\Debug\net6.0-windows\WinForms Calculation.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\S\WinForms Calculation\obj\Debug\net6.0-windows\WinForms Calculation.AssemblyInfo.cs
+C:\Users\profi\Desktop\S\WinForms Calculation\obj\Debug\net6.0-windows\WinForms Calculation.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\S\WinForms Calculation\obj\Debug\net6.0-windows\WinForms Calculation.dll
+C:\Users\profi\Desktop\S\WinForms Calculation\obj\Debug\net6.0-windows\refint\WinForms Calculation.dll
+C:\Users\profi\Desktop\S\WinForms Calculation\obj\Debug\net6.0-windows\WinForms Calculation.pdb
+C:\Users\profi\Desktop\S\WinForms Calculation\obj\Debug\net6.0-windows\WinForms Calculation.genruntimeconfig.cache
+C:\Users\profi\Desktop\S\WinForms Calculation\obj\Debug\net6.0-windows\ref\WinForms Calculation.dll
