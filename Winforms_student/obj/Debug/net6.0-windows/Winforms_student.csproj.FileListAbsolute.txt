@@ -1,0 +1,17 @@
+C:\Users\profi\Desktop\S\Winforms_student\bin\Debug\net6.0-windows\Winforms_student.exe
+C:\Users\profi\Desktop\S\Winforms_student\bin\Debug\net6.0-windows\Winforms_student.deps.json
+C:\Users\profi\Desktop\S\Winforms_student\bin\Debug\net6.0-windows\Winforms_student.runtimeconfig.json
+C:\Users\profi\Desktop\S\Winforms_student\bin\Debug\net6.0-windows\Winforms_student.dll
+C:\Users\profi\Desktop\S\Winforms_student\bin\Debug\net6.0-windows\Winforms_student.pdb
+C:\Users\profi\Desktop\S\Winforms_student\obj\Debug\net6.0-windows\Winforms_student.csproj.AssemblyReference.cache
+C:\Users\profi\Desktop\S\Winforms_student\obj\Debug\net6.0-windows\Winforms_student.Form1.resources
+C:\Users\profi\Desktop\S\Winforms_student\obj\Debug\net6.0-windows\Winforms_student.csproj.GenerateResource.cache
+C:\Users\profi\Desktop\S\Winforms_student\obj\Debug\net6.0-windows\Winforms_student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Desktop\S\Winforms_student\obj\Debug\net6.0-windows\Winforms_student.AssemblyInfoInputs.cache
+C:\Users\profi\Desktop\S\Winforms_student\obj\Debug\net6.0-windows\Winforms_student.AssemblyInfo.cs
+C:\Users\profi\Desktop\S\Winforms_student\obj\Debug\net6.0-windows\Winforms_student.csproj.CoreCompileInputs.cache
+C:\Users\profi\Desktop\S\Winforms_student\obj\Debug\net6.0-windows\Winforms_student.dll
+C:\Users\profi\Desktop\S\Winforms_student\obj\Debug\net6.0-windows\refint\Winforms_student.dll
+C:\Users\profi\Desktop\S\Winforms_student\obj\Debug\net6.0-windows\Winforms_student.pdb
+C:\Users\profi\Desktop\S\Winforms_student\obj\Debug\net6.0-windows\Winforms_student.genruntimeconfig.cache
+C:\Users\profi\Desktop\S\Winforms_student\obj\Debug\net6.0-windows\ref\Winforms_student.dll
